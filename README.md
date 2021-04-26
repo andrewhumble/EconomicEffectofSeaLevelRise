@@ -16,6 +16,7 @@ Data Resources for Ground Water Sources (Please Use Any of the Ones Below):
 1. https://cida.usgs.gov/ngwmn/index.jsp
 2. https://maps.waterdata.usgs.gov/mapper/index.html
 3. https://nwis.waterdata.usgs.gov/usa/nwis/gwlevels
+4. https://www.usgs.gov/faqs/how-can-i-find-depth-water-table-a-specific-location?qt-news_science_products=0#qt-news_science_products (To find data sources in general)
 
 Resources for Reading:
 1. https://climate.nasa.gov/blog/3002/sea-level-101-part-two-all-sea-level-is-local/
