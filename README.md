@@ -11,6 +11,12 @@ Data Resources for Local Factors:
 6. https://podaac.jpl.nasa.gov/dataset/TELLUS_GIA_L3_1-DEG_V1.0 (Glacier Movement Data; will require you to make an account, so please ask once you get to this part)
 7. https://tidesandcurrents.noaa.gov/publications/Technical_Report_NOS_CO-OPS_065.pdf (Look at pages 7-10 for data for subsidence)
 
+Data Resources for Ground Water Sources (Please Use Any of the Ones Below):
+
+1. https://cida.usgs.gov/ngwmn/index.jsp
+2. https://maps.waterdata.usgs.gov/mapper/index.html
+3. https://nwis.waterdata.usgs.gov/usa/nwis/gwlevels
+
 Resources for Reading:
 1. https://climate.nasa.gov/blog/3002/sea-level-101-part-two-all-sea-level-is-local/
 2. https://sealevel.nasa.gov/understanding-sea-level/regional-sea-level/overview
