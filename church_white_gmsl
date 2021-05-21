@@ -1,0 +1,17 @@
+library(tidyverse)
+CSIROFullData = read_csv("CSIRO_Recons_gmsl_mo_2015.csv")
+ggplot(CSIROFullData, aes(x = Time, y = `GMSL (mm)`)) + 
+  geom_point(color = "lightskyblue2", size = 1) + 
+  geom_line(color = "gray38") + 
+  geom_smooth(method = lm, se = FALSE, color = "red4") +
+  scale_x_continuous(breaks=seq(1880,2020,10)) +
+  scale_y_continuous(breaks=seq(-185,95,25)) + 
+  xlab("Year") + ggtitle("Year 1880 To 2013")
+  
+  ggplot(CSIROFullData, aes(x = Time, y = `GMSL (mm)`)) + 
+  geom_point(color = "lightskyblue2", size = 1) + 
+  geom_line(color = "gray38") + 
+  geom_smooth(se = FALSE, color = "red4") +
+  scale_x_continuous(breaks=seq(1880,2020,10)) +
+  scale_y_continuous(breaks=seq(-185,95,25)) + 
+  xlab("Year") + ggtitle("Year 1880 To 2013")
